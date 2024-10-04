@@ -8,7 +8,7 @@ metadata:
     #vmoperator.vmware.com/cloudinit-type: cloudinitprep
 spec:
   className: best-effort-small
-  imageName: 10.237.237.5:8000/win-2012.ova
+  imageName: ent.box.com/shared/static/op9lkwdub8iq8yikjbx0qflke41trew4.ova
   powerState: poweredOn
   vmMetadata:
     secretName: sysprep-bootstrap-data
